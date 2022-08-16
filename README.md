@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 i am interested in software
 - 🌱 I’m currently learning 
-I am learning java and python
+I am learning java
 - 💞️ I’m looking to collaborate on ...
 - 
 - 📫 How to reach me ...
