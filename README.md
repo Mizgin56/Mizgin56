@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mizgin56
-- 👀 I’m interested in 
-i am interested in software
+- 👀 I’m interested in software
 - 🌱 I’m currently learning  java
 - 💞️ I’m looking to collaborate on ...
 - 
